@@ -1,0 +1,14 @@
+commit bc7cba9b995b18e8a7c3a77af0412c727e4ce445
+Author: foo <foo@bar.com>
+Date:   Tue Jul 19 15:48:42 2016 +0000
+
+    1
+
+diff --git a/a_new_file b/a_new_file
+new file mode 100644
+index 0000000..82fa9da
+--- /dev/null
++++ b/a_new_file
+@@ -0,0 +1 @@
++this is some data
+\ No newline at end of file

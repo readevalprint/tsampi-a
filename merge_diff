@@ -1,0 +1,11 @@
+diff --cc data/dddd
+index c8bfbea,058bbda..0000000
+--- a/data/dddd
++++ b/data/dddd
+@@@ -1,1 -1,1 +1,5 @@@
+- rmkrmkr
+++<<<<<<<
+++rmkrmkrss
+++=======
++ 4443333333333
+++>>>>>>>

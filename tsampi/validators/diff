@@ -1,0 +1,14 @@
+commit b55db3be079383190c196bcdec9e524f00a0ab16
+Author: Tim Watts <readevalprint@users.noreply.github.com>
+Date:   Tue Jul 19 18:22:29 2016 +0200
+
+    Delete a_new_file
+
+diff --git a/a_new_file b/a_new_file
+deleted file mode 100644
+index 432d1f6..0000000
+--- a/a_new_file
++++ /dev/null
+@@ -1 +0,0 @@
+-this is some different data
+\ No newline at end of file
